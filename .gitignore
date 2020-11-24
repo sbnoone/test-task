@@ -2,9 +2,11 @@
 
 # dependencies
 /node_modules
+.gitignore
 /.pnp
 .pnp.js
-
+.eslintcache
+yarn.lock
 # testing
 /coverage
 
