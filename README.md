@@ -1,3 +1,2 @@
-### Admin - login: admin, password: admin
+### Test task
 
-### User - login: user, password: user
